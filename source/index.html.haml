@@ -3,6 +3,9 @@ title: Avatar Throwback
 ---
 
 %section.awesomeness
+  = partial '/refills/nav'
   .wrapper
     %article
-      %h1 Sweet
+      -30.times do
+        = link_to '#', class: 'thumbnail' do
+          = image_tag 'avatars/little-pete-wrigley.png'
