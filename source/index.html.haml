@@ -14,12 +14,12 @@ title: Avatar Throwback
       %p
         If you like making prototypes, need dem avatars,
         %br
-        and were born in the 80's, this shit is for you!
+        and on that 80's tip, this shit is for you!
       = link_to 'Download List', '#', class: 'btn'
-      %br
-      -30.times do
-        = link_to '#', class: 'thumbnail' do
-          = image_tag 'avatars/little-pete-wrigley.png'
+      %figure
+        -30.times do
+          = link_to '#', class: 'thumbnail' do
+            = image_tag 'avatars/little-pete-wrigley.png'
   %footer
     .wrapper
       All photos are curated by,
