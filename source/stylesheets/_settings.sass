@@ -11,11 +11,13 @@ $gray: rgb(117, 117, 117)
   -moz-osx-font-smoothing: grayscale
   outline: none
   box-sizing: border-box
-  
+
 br
-  display: inline-block
-  +media(900px)
-    display: none
+  display: none
+
++media(900px)
+  br
+    display: inline-block
 
 // Mixins
 @-webkit-keyframes fadeIn
