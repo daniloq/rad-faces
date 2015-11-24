@@ -1,2 +1,2 @@
-# avatar-throwback
-90's inspired avatars for UI prototypes
+# Rad Faces
+F#ckin' rad ui faces for your comps!
