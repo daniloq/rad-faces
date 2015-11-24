@@ -1,7 +1,15 @@
 .thumbnail
   width: rem(40)
+  height: rem(40)
+  overflow: hidden
   img
+    +transition(all .3s)
     max-width: rem(120)
     margin: rem(4)
     height: auto
     border-radius: 50%
+    border: rem(3) solid white
+    &:hover
+      +transform(scale(1.5))
+      border: rem(3) solid $orange
+      box-shadow: 0 0 rem(9) rem(-2) rgba(0,0,0,0.75)

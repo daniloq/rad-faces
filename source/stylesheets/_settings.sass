@@ -5,9 +5,22 @@ $light-blue: #D5EEFF
 $dark-blue: #1B435D
 $gray: rgb(117, 117, 117)
 
-//
+// Global
 *
   -webkit-font-smoothing: antialiased
   -moz-osx-font-smoothing: grayscale
   outline: none
   box-sizing: border-box
+
+// Mixins
+@-webkit-keyframes fadeIn
+  from
+    opacity: 0
+  to
+    opacity: 1
+
+@keyframes fadeIn
+  from
+    opacity: 0
+  to
+    opacity: 1
