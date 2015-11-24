@@ -3,15 +3,7 @@ title: Rad Faces
 ---
 
 %section.awesomeness
-  %nav
-    .wrapper
-      .logo
-        = image_tag 'radfaces.png'
-      .share-links
-        %span.tweet-share
-          %a.twitter-share-button{"data-text" => "F#ckin' rad ui faces for your comps!", "data-url" => "http://www.radfaces.com/", "data-via" => "AkaDonnyQ", :href => "https://twitter.com/share"} Tweet
-        %span.github
-          %iframe{:frameborder => "0", :height => "20px", :scrolling => "0", :src => "https://ghbtns.com/github-btn.html?user=daniloq&repo=rad-faces&type=star&count=true", :width => "90px"}
+  = partial 'refills/nav'
   %article
     .wrapper
       %p
@@ -20,9 +12,7 @@ title: Rad Faces
         and on that 80's early 90's tip, this shit is for you!
       = link_to 'Download List', '#', class: 'btn'
       %figure
-        -30.times do
-          = link_to '#', class: 'thumbnail' do
-            = image_tag 'avatars/little-pete-wrigley.png'
+        = partial 'refills/avatar'
   %footer
     .wrapper
       All photos are curated by,

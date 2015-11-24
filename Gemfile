@@ -3,8 +3,13 @@
 source 'https://rubygems.org'
 
 gem 'middleman', '~>3.4.0'
+
+# Frontend
 gem 'bourbon'
 gem 'neat'
+
+# deployment
+gem 'rack-contrib'
 
 # Live-reloading plugin
 gem 'middleman-livereload', '~> 3.1.0'

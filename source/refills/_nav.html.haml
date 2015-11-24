@@ -1,6 +1,9 @@
 %nav
   .wrapper
-    Duuuuude!
-    %ul
-      %li
-        = link_to 'About', '#'
+    .logo
+      = image_tag 'radfaces.png'
+    .share-links
+      %span.tweet-share
+        %a.twitter-share-button{"data-text" => "F#ckin' rad ui faces for your comps!", "data-url" => "http://www.radfaces.com/", "data-via" => "AkaDonnyQ", :href => "https://twitter.com/share"} Tweet
+      %span.github
+        %iframe{:frameborder => "0", :height => "20px", :scrolling => "0", :src => "https://ghbtns.com/github-btn.html?user=daniloq&repo=rad-faces&type=star&count=true", :width => "90px"}
