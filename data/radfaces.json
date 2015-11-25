@@ -1,6 +1,7 @@
 [{
   "name": "Pete Wrigley",
-  "image": "little-pete-wrigley.png"
+  "image": "little-pete-wrigley.png",
+  "location": "Wellsville, NY"
 }, {
   "name": "Aeon Flux",
   "image": "aeon-flux.png",
@@ -23,227 +24,298 @@
   "location": "Wellsville, NY"
 }, {
   "name": "Baby Sinclair",
-  "image": "baby-sinclair.png"
+  "image": "baby-sinclair.png",
+  "location": "Pangaea"
 }, {
   "name": "Big Pete Wrigley",
-  "image": "big-pete-wrigley.png"
+  "image": "big-pete-wrigley.png",
+  "location": "Wellsville, NY"
 }, {
   "name": "Bobby Budnick",
-  "image": "bobby-budnick.png"
+  "image": "bobby-budnick.png",
+  "location": "Camp Anawanna, VA"
 }, {
   "name": "Bradley Taylor",
-  "image": "bradley-taylor.png"
+  "image": "bradley-taylor.png",
+  "location": "Dude Ranch, AZ"
 }, {
   "name": "Casey Jones",
-  "image": "casey-jones.png"
+  "image": "casey-jones.png",
+  "location": "Brooklyn, NY"
 }, {
   "name": "Charlene Sinclair",
-  "image": "charlene-sinclair.png"
+  "image": "charlene-sinclair.png",
+  "location": "Pangaea"
 }, {
   "name": "Chris Chambers",
-  "image": "chris-chambers.png"
+  "image": "chris-chambers.png",
+  "location": "Castlerock, OR"
 }, {
   "name": "Danny Lightfoot",
-  "image": "danny-lightfoot.png"
+  "image": "danny-lightfoot.png",
+  "location": "Dude Ranch, AZ"
 }, {
   "name": "Danny Pennington",
-  "image": "danny-pennington.png"
+  "image": "danny-pennington.png",
+  "location": "Brooklyn, NY"
 }, {
   "name": "Daria Morgendorffer",
-  "image": "daria-morgendorffer.png"
+  "image": "daria-morgendorffer.png",
+  "location": "Lawndale, MTV"
 }, {
   "name": "Dina Alexander",
-  "image": "dina-alexander.png"
+  "image": "dina-alexander.png",
+  "location": "Camp Anawanna, VA"
 }, {
   "name": "Eddie Gelfen",
-  "image": "eddie-gelfen.png"
+  "image": "eddie-gelfen.png",
+  "location": "Camp Anawanna, VA"
 }, {
   "name": "Ellen Josephine Hickle",
-  "image": "ellen-josephine-hickle.png"
+  "image": "ellen-josephine-hickle.png",
+  "location": "Wellsville, NY"
 }, {
   "name": "Ernest Worrell",
-  "image": "ernest-worrell.png"
+  "image": "ernest-worrell.png",
+  "location": "Jail, Prison"
 }, {
   "name": "Harriet Welsch",
-  "image": "harriet-welsch.png"
+  "image": "harriet-welsch.png",
+  "location": "Upper East Side, NY"
 }, {
   "name": "Ickis",
-  "image": "ickis.png"
+  "image": "ickis.png",
+  "location": "City Dump, NY"
 }, {
   "name": "Jane Lane",
-  "image": "jane-lane.png"
+  "image": "jane-lane.png",
+  "location": "Lawndale, MTV"
 }, {
   "name": "Jeffrey Douglas",
-  "image": "jeffrey-douglas.png"
+  "image": "jeffrey-douglas.png",
+  "location": "Pasadena, CA"
 }, {
   "name": "Kel Mitchell",
-  "image": "kel-mitchell.png"
+  "image": "kel-mitchell.png",
+  "location": "Hollywood, CA"
 }, {
   "name": "Krumm",
-  "image": "krumm.png"
+  "image": "krumm.png",
+  "location": "City Dump, NY"
 }, {
   "name": "Lawrence Cohen",
-  "image": "lawrence-cohen.png"
+  "image": "lawrence-cohen.png",
+  "location": "Astoria, OR"
 }, {
   "name": "Lori-Beth Denberg",
-  "image": "lori-beth-denberg.png"
+  "image": "lori-beth-denberg.png",
+  "location": "Hollywood, CA"
 }, {
   "name": "Marshall Teller",
-  "image": "marshall-teller.png"
+  "image": "marshall-teller.png",
+  "location": "Eerie, IN"
 }, {
   "name": "Mechagodzilla",
-  "image": "mechagodzilla.png"
+  "image": "mechagodzilla.png",
+  "location": "Tokyo, Japan"
 }, {
   "name": "Melody Hanson",
-  "image": "melody-hanson.png"
+  "image": "melody-hanson.png",
+  "location": "Dude Ranch, AZ"
 }, {
   "name": "Michael Douglas",
-  "image": "michael-douglas.png"
+  "image": "michael-douglas.png",
+  "location": "Pasadena, CA"
 }, {
   "name": "Michael Walsh",
-  "image": "michael-walsh.png"
+  "image": "michael-walsh.png",
+  "location": "Astoria, OR"
 }, {
   "name": "Michelangelo",
-  "image": "michelangelo.png"
+  "image": "michelangelo.png",
+  "location": "Brooklyn, NY"
 }, {
   "name": "Oblina",
-  "image": "oblina.png"
+  "image": "oblina.png",
+  "location": "City Dump, NY"
 }, {
   "name": "Patty Mayonnaise",
-  "image": "patty-mayonnaise.png"
+  "image": "patty-mayonnaise.png",
+  "location": "Bluffington, VA"
 }, {
   "name": "Powdered Toast Man",
-  "image": "powdered-toast-man.png"
+  "image": "powdered-toast-man.png",
+  "location": "City Hicks, TN"
 }, {
   "name": "Quinn Morgendorffer",
-  "image": "quinn-morgendorffer.png"
+  "image": "quinn-morgendorffer.png",
+  "location": "Lawndale, MTV"
 }, {
   "name": "Reno Reyes, Jr.",
-  "image": "reno-reyes-jr.png"
+  "image": "reno-reyes-jr.png",
+  "location": "Brooklyn, NY"
 }, {
   "name": "Richard Wang",
-  "image": "richard-wang.png"
+  "image": "richard-wang.png",
+  "location": "Astoria, OR"
 }, {
   "name": "Robbie Sinclair",
-  "image": "robbie-sinclair.png"
+  "image": "robbie-sinclair.png",
+  "location": "Pangaea"
 }, {
   "name": "Roger Klotz",
-  "image": "roger-klotz.png"
+  "image": "roger-klotz.png",
+  "location": "Bluffington, VA"
 }, {
   "name": "Sam Emerson",
-  "image": "sam-emerson.png"
+  "image": "sam-emerson.png",
+  "location": "Santa Clara, CA"
 }, {
   "name": "Samuel Douglas",
-  "image": "samuel-douglas.png"
+  "image": "samuel-douglas.png",
+  "location": "Pasadena, CA"
 }, {
   "name": "Simon Holmes",
-  "image": "simon-holmes.png"
+  "image": "simon-holmes.png",
+  "location": "Eerie, IN"
 }, {
   "name": "Skeeter Valentine",
-  "image": "skeeter-valentine.png"
+  "image": "skeeter-valentine.png",
+  "location": "Bluffington, VA"
 }, {
   "name": "Star Emerson",
-  "image": "star-emerson.png"
+  "image": "star-emerson.png",
+  "location": "Santa Clara, CA"
 }, {
   "name": "Teddy Duchamp",
-  "image": "teddy-duchamp.png"
+  "image": "teddy-duchamp.png",
+  "location": "Castlerock, OR"
 }, {
   "name": "Telly Radford",
-  "image": "telly-radford.png"
+  "image": "telly-radford.png",
+  "location": "Camp Anawanna, VA"
 }, {
   "name": "Trent Lane",
-  "image": "trent-lane.png"
+  "image": "trent-lane.png",
+  "location": "Lawndale, MTV"
 }, {
   "name": "Vern Tessio",
-  "image": "vern-tessio.png"
+  "image": "vern-tessio.png",
+  "location": "Castlerock, OR"
 }, {
   "name": "Alex Murphy",
   "image": "alex-murphy.png",
   "location": "Detroit, MI"
 }, {
   "name": "Atreyu",
-  "image": "atreyu.png"
+  "image": "atreyu.png",
+  "location": "Fantastica"
 }, {
   "name": "Bill Esquire",
-  "image": "bill-esquire.png"
+  "image": "bill-esquire.png",
+  "location": "San Dimas, CA"
 }, {
   "name": "Bishop",
-  "image": "bishop.png"
+  "image": "bishop.png",
+  "location": "Queens, NY"
 }, {
   "name": "David Bowie",
-  "image": "david-bowie.png"
+  "image": "david-bowie.png",
+  "location": "The Labyrinth"
 }, {
   "name": "Empress Tami",
-  "image": "empress-tami.png"
+  "image": "empress-tami.png",
+  "location": "Fantastica"
 }, {
   "name": "Iggy",
-  "image": "iggy.png"
+  "image": "iggy.png",
+  "location": "Surf City, CA"
 }, {
   "name": "Kennedy Montgomery",
-  "image": "kennedy-montgomery.png"
+  "image": "kennedy-montgomery.png",
+  "location": "MTV News, MTV"
 }, {
   "name": "Link",
-  "image": "link.png"
+  "image": "link.png",
+  "location": "Encino, CA"
 }, {
   "name": "Pat Benetar",
-  "image": "pat-benatar.png"
+  "image": "pat-benatar.png",
+  "location": "Brooklyn, NY"
 }, {
   "name": "Sarah Williams",
-  "image": "sarah-williams.png"
+  "image": "sarah-williams.png",
+  "location": "The Labyrinth"
 }, {
   "name": "Stoney Brown",
-  "image": "stoney-brown.png"
+  "image": "stoney-brown.png",
+  "location": "Encino, CA"
 }, {
   "name": "Ted Logan",
-  "image": "ted-logan.png"
+  "image": "ted-logan.png",
+  "location": "San Dimas, CA"
 }, {
   "name": "Vera De Milo",
-  "image": "vera-de-milo.png"
+  "image": "vera-de-milo.png",
+  "location": "In Living Color, TV"
 }, {
   "name": "Yellow Frog",
-  "image": "yellow-frog.png"
+  "image": "yellow-frog.png",
+  "location": "Hidden Temple"
 }, {
   "name": "Asha Kuerten",
   "image": "asha-kuerten.png",
   "location": "Guts, Australia"
 }, {
   "name": "Elvira Hancock",
-  "image": "elvira-hancock.png"
+  "image": "elvira-hancock.png",
+  "location": "Miami, FL"
 }, {
   "name": "June",
-  "image": "june.png"
+  "image": "june.png",
+  "location": "KaBlam, Nick"
 }, {
   "name": "Alex Mack",
   "image": "alex-mack.png",
   "location": "Paradise Valley, CA"
 }, {
   "name": "Clarissa Marie Darling",
-  "image": "clarissa-marie-darling.png"
+  "image": "clarissa-marie-darling.png",
+  "location": "Smalltown, OH"
 }, {
   "name": "Dylan McKay",
-  "image": "dylan-mckay.png"
+  "image": "dylan-mckay.png",
+  "location": "Beverly Hills, CA 90210"
 }, {
   "name": "Kelly Kapowski",
-  "image": "kelly-kapowski.png"
+  "image": "kelly-kapowski.png",
+  "location": "Bayside High"
 }, {
   "name": "Kimmy Gibbler",
-  "image": "kimmy-gibbler.png"
+  "image": "kimmy-gibbler.png",
+  "location": "San Francisco, CA"
 }, {
   "name": "Scrappy-Doo",
-  "image": "scrappy-doo.png"
+  "image": "scrappy-doo.png",
+  "location": "Crystal Cove"
 }, {
   "name": "Tina Carlyle",
-  "image": "tina-carlyle.png"
+  "image": "tina-carlyle.png",
+  "location": "Edge City"
 }, {
   "name": "Zack Taylor",
-  "image": "zack-taylor.png"
+  "image": "zack-taylor.png",
+  "location": "Angel Grove"
 }, {
   "name": "Will Smith",
-  "image": "will-smith.png"
+  "image": "will-smith.png",
+  "location": "Bel Air, Ca"
 }, {
   "name": "Rufio",
-  "image": "rufio.png"
+  "image": "rufio.png",
+  "location": "Neverland"
 }, {
   "name": "Chucky",
-  "image": "chucky.png"
+  "image": "chucky.png",
+  "location": "Yucaipa, CA"
 }]
