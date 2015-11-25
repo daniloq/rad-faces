@@ -3,19 +3,24 @@
   "image": "little-pete-wrigley.png"
 }, {
   "name": "Aeon Flux",
-  "image": "aeon-flux.png"
+  "image": "aeon-flux.png",
+  "location": "Nation of Monica"
 }, {
   "name": "Alan Frog",
-  "image": "alan-frog.png"
+  "image": "alan-frog.png",
+  "location": "Santa Clara, CA"
 }, {
   "name": "Amanda Bynes",
-  "image": "amanda-bynes.png"
+  "image": "amanda-bynes.png",
+  "location": "Hollywood, CA"
 }, {
   "name": "April O'Neil",
-  "image": "april-oneil.png"
+  "image": "april-oneil.png",
+  "location": "Brooklyn, NY"
 }, {
   "name": "Artie - the strongest man in the world!",
-  "image": "artie-strongman.png"
+  "image": "artie-strongman.png",
+  "location": "Wellsville, NY"
 }, {
   "name": "Baby Sinclair",
   "image": "baby-sinclair.png"
@@ -153,7 +158,8 @@
   "image": "vern-tessio.png"
 }, {
   "name": "Alex Murphy",
-  "image": "alex-murphy.png"
+  "image": "alex-murphy.png",
+  "location": "Detroit, MI"
 }, {
   "name": "Atreyu",
   "image": "atreyu.png"
@@ -198,7 +204,8 @@
   "image": "yellow-frog.png"
 }, {
   "name": "Asha Kuerten",
-  "image": "asha-kuerten.png"
+  "image": "asha-kuerten.png",
+  "location": "Guts, Australia"
 }, {
   "name": "Elvira Hancock",
   "image": "elvira-hancock.png"
@@ -207,7 +214,8 @@
   "image": "june.png"
 }, {
   "name": "Alex Mack",
-  "image": "alex-mack.png"
+  "image": "alex-mack.png",
+  "location": "Paradise Valley, CA"
 }, {
   "name": "Clarissa Marie Darling",
   "image": "clarissa-marie-darling.png"
