@@ -318,4 +318,24 @@
   "name": "Chucky",
   "image": "http://www.radfaces.com/images/avatars/chucky.png",
   "location": "Yucaipa, CA"
+}, {
+  "name": "Allison Reynolds",
+  "image": "http://www.radfaces.com/images/avatars/allison-reynolds.png",
+  "location": "Shermer, IL"
+}, {
+  "name": "Cameron Frye",
+  "image": "http://www.radfaces.com/images/avatars/cameron-frye.png",
+  "location": "Chicago, IL"
+}, {
+  "name": "Claire Standish",
+  "image": "http://www.radfaces.com/images/avatars/claire-standish.png",
+  "location": "Shermer, IL"
+}, {
+  "name": "Gary Wallace",
+  "image": "http://www.radfaces.com/images/avatars/gary-wallace.png",
+  "location": "Shermer, IL"
+}, {
+  "name": "Lisa",
+  "image": "http://www.radfaces.com/images/avatars/lisa.png",
+  "location": "Shermer, IL"
 }]

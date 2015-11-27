@@ -318,4 +318,24 @@
   "name": "Chucky",
   "image": "chucky.png",
   "location": "Yucaipa, CA"
+}, {
+  "name": "Allison Reynolds",
+  "image": "allison-reynolds.png",
+  "location": "Shermer, IL"
+}, {
+  "name": "Cameron Frye",
+  "image": "cameron-frye.png",
+  "location": "Chicago, IL"
+}, {
+  "name": "Claire Standish",
+  "image": "claire-standish.png",
+  "location": "Shermer, IL"
+}, {
+  "name": "Gary Wallace",
+  "image": "gary-wallace.png",
+  "location": "Shermer, IL"
+}, {
+  "name": "Lisa",
+  "image": "lisa.png",
+  "location": "Shermer, IL"
 }]
