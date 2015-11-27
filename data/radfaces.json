@@ -338,4 +338,24 @@
   "name": "Lisa",
   "image": "lisa.png",
   "location": "Shermer, IL"
+}, {
+  "name": "Bruce Lee",
+  "image": "bruce-lee.png",
+  "location": "China Town, San Francisco"
+}, {
+  "name": "Helga Pataki",
+  "image": "helga-pataki.png",
+  "location": "Hillwood, WA"
+}, {
+  "name": "Laura Powers",
+  "image": "laura-powers.png",
+  "location": "Springfield, IL"
+}, {
+  "name": "Lydia Deetz",
+  "image": "lydia-deetz.png",
+  "location": "Winter River, CT"
+}, {
+  "name": "Ultimate Warrior",
+  "image": "ultimate-warrior.png",
+  "location": "Crawfordsville, IN"
 }]

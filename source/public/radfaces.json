@@ -338,4 +338,24 @@
   "name": "Lisa",
   "image": "http://www.radfaces.com/images/avatars/lisa.png",
   "location": "Shermer, IL"
+}, {
+  "name": "Bruce Lee",
+  "image": "http://www.radfaces.com/images/avatars/bruce-lee.png",
+  "location": "China Town, San Francisco"
+}, {
+  "name": "Helga Pataki",
+  "image": "http://www.radfaces.com/images/avatars/helga-pataki.png",
+  "location": "Hillwood, WA"
+}, {
+  "name": "Laura Powers",
+  "image": "http://www.radfaces.com/images/avatars/laura-powers.png",
+  "location": "Springfield, IL"
+}, {
+  "name": "Lydia Deetz",
+  "image": "http://www.radfaces.com/images/avatars/lydia-deetz.png",
+  "location": "Winter River, CT"
+}, {
+  "name": "Ultimate Warrior",
+  "image": "http://www.radfaces.com/images/avatars/ultimate-warrior.png",
+  "location": "Crawfordsville, IN"
 }]
