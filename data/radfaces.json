@@ -358,4 +358,24 @@
   "name": "Ultimate Warrior",
   "image": "ultimate-warrior.png",
   "location": "Crawfordsville, IN"
+}, {
+  "name": "Boba Fett",
+  "image": "boba-fett.png",
+  "location": "Kamino"
+}, {
+  "name": "Garth Algar",
+  "image": "garth-algar.png",
+  "location": "Aurora, IL"
+}, {
+  "name": "Jen",
+  "image": "jen.png",
+  "location": "Thra"
+}, {
+  "name": "Linda Barret",
+  "image": "linda-barret.png",
+  "location": "San Diego, CA"
+}, {
+  "name": "Scott Howard",
+  "image": "scott-howard.png",
+  "location": "Beacontown"
 }]

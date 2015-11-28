@@ -358,4 +358,24 @@
   "name": "Ultimate Warrior",
   "image": "http://www.radfaces.com/images/avatars/ultimate-warrior.png",
   "location": "Crawfordsville, IN"
+}, {
+  "name": "Boba Fett",
+  "image": "http://www.radfaces.com/images/avatars/boba-fett.png",
+  "location": "Kamino"
+}, {
+  "name": "Garth Algar",
+  "image": "http://www.radfaces.com/images/avatars/garth-algar.png",
+  "location": "Aurora, IL"
+}, {
+  "name": "Jen",
+  "image": "http://www.radfaces.com/images/avatars/jen.png",
+  "location": "Thra"
+}, {
+  "name": "Linda Barret",
+  "image": "http://www.radfaces.com/images/avatars/linda-barret.png",
+  "location": "San Diego, CA"
+}, {
+  "name": "Scott Howard",
+  "image": "http://www.radfaces.com/images/avatars/scott-howard.png",
+  "location": "Beacontown"
 }]
