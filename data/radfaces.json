@@ -378,4 +378,24 @@
   "name": "Scott Howard",
   "image": "scott-howard.png",
   "location": "Beacontown"
+}, {
+  "name": "Akira",
+  "image": "akira.png",
+  "location": "Neo-Tokyo, Japan"
+}, {
+  "name": "Dionne",
+  "image": "dionne.png",
+  "location": "Beverly Hills, CA"
+}, {
+  "name": "Johnny Lawrence",
+  "image": "johnny-lawrence.png",
+  "location": "Reseda, CA"
+}, {
+  "name": "Lucas",
+  "image": "lucas.png",
+  "location": "Empire, DE"
+}, {
+  "name": "Winnie Cooper",
+  "image": "winnie-cooper.png",
+  "location": "Harper Woods"
 }]
