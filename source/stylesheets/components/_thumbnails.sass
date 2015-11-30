@@ -1,23 +1,7 @@
 .thumbnail
-  width: rem(40)
-  height: rem(40)
-  overflow: hidden
-  position: relative
-  span
-    display: none
-    position: absolute
-    font:
-      size: rem(11)
-    left: rem(-26)
-    top: rem(-133)
-    right: 0
-    bottom: 0
-    z-index: 1
-    height: rem(180)
-    width: rem(180)
-    border-radius: 50%
-    color: white
-    background: rgba(0,0,0,0.5)
+  width: rem(120)
+  height: rem(120)
+  display: inline-block
   img
     +transition(all .3s)
     max-width: rem(120)
@@ -25,12 +9,7 @@
     height: auto
     border-radius: 50%
     border: rem(3) solid white
-    position: relative
     &:hover
       +transform(scale(1.5))
       border: rem(3) solid $orange
       box-shadow: 0 0 rem(9) rem(-2) rgba(0,0,0,0.75)
-      z-index: 1
-  &:hover span
-    +transition(all .3s)
-    display: inline-block
