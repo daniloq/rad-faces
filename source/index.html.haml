@@ -37,8 +37,16 @@ title: Rad Faces
   // Modals
   $('.thumbnail').click(function(){
      $('.modal').hide();
-  $('#'+$(this).data('id')).fadeToggle();
+     $('body').addClass('modal--open');
+     $('#'+$(this).data('id')).fadeToggle();
   });
   $('.modal__close-btn').click(function(){
     $(this).closest('.modal').fadeToggle();
+    $('body').removeClass('modal--open');
+  });
+  $(document).on( 'keydown', function ( e ) {
+    if (e.keyCode === 27) {
+      $('.modal').hide();
+      $('body').removeClass('modal--open');
+    }
   });
