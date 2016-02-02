@@ -34,7 +34,7 @@
   "image": "baby-sinclair.png",
   "location": "Pangaea"
 }, {
-  "first_name": "Big Pete",
+  "first_name": "Big-Pete",
   "last_name": "Wrigley",
   "image": "big-pete-wrigley.png",
   "location": "Wellsville, NY"
@@ -69,7 +69,7 @@
   "image": "danny-lightfoot.png",
   "location": "Dude Ranch, AZ"
 }, {
-  "first_name": "Danny",
+  "first_name": "Daniel",
   "last_name": "Pennington",
   "image": "danny-pennington.png",
   "location": "Brooklyn, NY"
@@ -89,7 +89,7 @@
   "image": "eddie-gelfen.png",
   "location": "Camp Anawanna, VA"
 }, {
-  "first_name": "Ellen Josephine",
+  "first_name": "Ellen",
   "last_name": "Hickle",
   "image": "ellen-josephine-hickle.png",
   "location": "Wellsville, NY"
@@ -349,7 +349,7 @@
   "image": "alex-mack.png",
   "location": "Paradise Valley, CA"
 }, {
-  "first_name": "Clarissa Marie",
+  "first_name": "Clarissa",
   "last_name": "Darling",
   "image": "clarissa-marie-darling.png",
   "location": "Smalltown, OH"

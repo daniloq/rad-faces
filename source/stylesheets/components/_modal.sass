@@ -1,0 +1,32 @@
+.modal
+  position: fixed
+  width: 100%
+  background: rgba(255,255,255,0.8)
+  top: 0
+  bottom: 0
+  left: 0
+  z-index: 1
+  +display(flex)
+  +justify-content(center)
+  +align-items(center)
+
+.modal__content
+  max-width: rem(600)
+  text-align: center
+  img
+    width: rem(225)
+    border-radius: 50%
+    border: rem(3) solid $orange
+  h3, p
+    margin: 0
+
+.modal__close-btn
+  position: absolute
+  top: rem(30)
+  right: rem(30)
+  color: $gray
+  font-size: rem(30)
+  +transition(all .3s)
+  &:hover
+    color: $orange
+    cursor: pointer

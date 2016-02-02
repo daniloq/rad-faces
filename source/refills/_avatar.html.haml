@@ -1,3 +1,3 @@
 - data.radfaces.each do |avatar|
-  %span.thumbnail
+  %a.thumbnail{'data-id' => avatar.first_name}
     = image_tag "avatars/#{avatar.image}", alt: avatar.first_name + " " + avatar.last_name, title: avatar.first_name + " " + avatar.last_name
