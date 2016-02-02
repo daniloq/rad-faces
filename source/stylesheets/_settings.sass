@@ -32,3 +32,8 @@ br
     opacity: 0
   to
     opacity: 1
+
+=opacity($opacity)
+  opacity: $opacity
+  $opacity-ie: $opacity * 100
+  filter: alpha(opacity = $opacity-ie)
