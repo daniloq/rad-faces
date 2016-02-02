@@ -1,7 +1,8 @@
 - data.radfaces.each do |avatar|
   .modal{id: avatar.first_name , style: "display:none"}
     .modal__content
-      = image_tag "avatars/#{avatar.image}", alt: avatar.first_name + " " + avatar.last_name, title: avatar.first_name + " " + avatar.last_name
+      = image_tag 'radfaces-white.png', class: 'modal__logo'
+      = image_tag "avatars/#{avatar.image}", class: "modal__avatar", alt: avatar.first_name + " " + avatar.last_name, title: avatar.first_name + " " + avatar.last_name
       %h3 #{avatar.first_name + " " + avatar.last_name}
       %p #{avatar.location}
     %a.modal__close-btn
