@@ -12,6 +12,7 @@ gem 'neat'
 gem 'rack-contrib'
 gem 'rack-zippy'
 gem 'zippy_static_cache'
+gem 'middleman-imageoptim'
 
 # Live-reloading plugin
 gem 'middleman-livereload', '~> 3.1.0'
