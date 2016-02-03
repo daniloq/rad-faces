@@ -1,501 +1,501 @@
 [{
   "first_name": "Pete",
   "last_name": "Wrigley",
-  "image": "little-pete-wrigley.png",
+  "image": "little-pete-wrigley.jpg",
   "location": "Wellsville, NY"
 }, {
   "first_name": "Aeon",
   "last_name": "Flux",
-  "image": "aeon-flux.png",
+  "image": "aeon-flux.jpg",
   "location": "Nation of Monica"
 }, {
   "first_name": "Alan",
   "last_name": "Frog",
-  "image": "alan-frog.png",
+  "image": "alan-frog.jpg",
   "location": "Santa Clara, CA"
 }, {
   "first_name": "Amanda",
   "last_name": "Bynes",
-  "image": "amanda-bynes.png",
+  "image": "amanda-bynes.jpg",
   "location": "Hollywood, CA"
 }, {
   "first_name": "April",
   "last_name": "O'Neil",
-  "image": "april-oneil.png",
+  "image": "april-oneil.jpg",
   "location": "Brooklyn, NY"
 }, {
   "first_name": "Artie",
   "last_name": "...the strongest man in the world",
-  "image": "artie-strongman.png",
+  "image": "artie-strongman.jpg",
   "location": "Wellsville, NY"
 }, {
   "first_name": "Baby",
   "last_name": "Sinclair",
-  "image": "baby-sinclair.png",
+  "image": "baby-sinclair.jpg",
   "location": "Pangaea"
 }, {
   "first_name": "Big-Pete",
   "last_name": "Wrigley",
-  "image": "big-pete-wrigley.png",
+  "image": "big-pete-wrigley.jpg",
   "location": "Wellsville, NY"
 }, {
   "first_name": "Bobby",
   "last_name": "Budnick",
-  "image": "bobby-budnick.png",
+  "image": "bobby-budnick.jpg",
   "location": "Camp Anawanna, VA"
 }, {
   "first_name": "Bradley",
   "last_name": "Taylor",
-  "image": "bradley-taylor.png",
+  "image": "bradley-taylor.jpg",
   "location": "Dude Ranch, AZ"
 }, {
   "first_name": "Casey",
   "last_name": "Jones",
-  "image": "casey-jones.png",
+  "image": "casey-jones.jpg",
   "location": "Brooklyn, NY"
 }, {
   "first_name": "Charlene",
   "last_name": "Sinclair",
-  "image": "charlene-sinclair.png",
+  "image": "charlene-sinclair.jpg",
   "location": "Pangaea"
 }, {
   "first_name": "Chris",
   "last_name": "Chambers",
-  "image": "chris-chambers.png",
+  "image": "chris-chambers.jpg",
   "location": "Castlerock, OR"
 }, {
   "first_name": "Danny",
   "last_name": "Lightfoot",
-  "image": "danny-lightfoot.png",
+  "image": "danny-lightfoot.jpg",
   "location": "Dude Ranch, AZ"
 }, {
   "first_name": "Daniel",
   "last_name": "Pennington",
-  "image": "danny-pennington.png",
+  "image": "danny-pennington.jpg",
   "location": "Brooklyn, NY"
 }, {
   "first_name": "Daria",
   "last_name": "Morgendorffer",
-  "image": "daria-morgendorffer.png",
+  "image": "daria-morgendorffer.jpg",
   "location": "Lawndale, MTV"
 }, {
   "first_name": "Dina",
   "last_name": "Alexander",
-  "image": "dina-alexander.png",
+  "image": "dina-alexander.jpg",
   "location": "Camp Anawanna, VA"
 }, {
   "first_name": "Eddie",
   "last_name": "Gelfen",
-  "image": "eddie-gelfen.png",
+  "image": "eddie-gelfen.jpg",
   "location": "Camp Anawanna, VA"
 }, {
   "first_name": "Ellen",
   "last_name": "Hickle",
-  "image": "ellen-josephine-hickle.png",
+  "image": "ellen-josephine-hickle.jpg",
   "location": "Wellsville, NY"
 }, {
   "first_name": "Ernest",
   "last_name": "Worrell",
-  "image": "ernest-worrell.png",
+  "image": "ernest-worrell.jpg",
   "location": "Jail, Prison"
 }, {
   "first_name": "Harriet",
   "last_name": "Welsch",
-  "image": "harriet-welsch.png",
+  "image": "harriet-welsch.jpg",
   "location": "Upper East Side, NY"
 }, {
   "first_name": "Ickis",
   "last_name": "",
-  "image": "ickis.png",
+  "image": "ickis.jpg",
   "location": "City Dump, NY"
 }, {
   "first_name": "Jane",
   "last_name": "Lane",
-  "image": "jane-lane.png",
+  "image": "jane-lane.jpg",
   "location": "Lawndale, MTV"
 }, {
   "first_name": "Jeffrey",
   "last_name": "Douglas",
-  "image": "jeffrey-douglas.png",
+  "image": "jeffrey-douglas.jpg",
   "location": "Pasadena, CA"
 }, {
   "first_name": "Kel",
   "last_name": "Mitchell",
-  "image": "kel-mitchell.png",
+  "image": "kel-mitchell.jpg",
   "location": "Hollywood, CA"
 }, {
   "first_name": "Krumm",
   "last_name": "",
-  "image": "krumm.png",
+  "image": "krumm.jpg",
   "location": "City Dump, NY"
 }, {
   "first_name": "Lawrence",
   "last_name": "Cohen",
-  "image": "lawrence-cohen.png",
+  "image": "lawrence-cohen.jpg",
   "location": "Astoria, OR"
 }, {
   "first_name": "Lori-Beth",
   "last_name": "Denberg",
-  "image": "lori-beth-denberg.png",
+  "image": "lori-beth-denberg.jpg",
   "location": "Hollywood, CA"
 }, {
   "first_name": "Marshall",
   "last_name": "Teller",
-  "image": "marshall-teller.png",
+  "image": "marshall-teller.jpg",
   "location": "Eerie, IN"
 }, {
   "first_name": "Mechagodzilla",
   "last_name": "",
-  "image": "mechagodzilla.png",
+  "image": "mechagodzilla.jpg",
   "location": "Tokyo, Japan"
 }, {
   "first_name": "Melody",
   "last_name": "Hanson",
-  "image": "melody-hanson.png",
+  "image": "melody-hanson.jpg",
   "location": "Dude Ranch, AZ"
 }, {
   "first_name": "Michael",
   "last_name": "Douglas",
-  "image": "michael-douglas.png",
+  "image": "michael-douglas.jpg",
   "location": "Pasadena, CA"
 }, {
   "first_name": "Michael",
   "last_name": "Walsh",
-  "image": "michael-walsh.png",
+  "image": "michael-walsh.jpg",
   "location": "Astoria, OR"
 }, {
   "first_name": "Michelangelo",
   "last_name": "",
-  "image": "michelangelo.png",
+  "image": "michelangelo.jpg",
   "location": "Brooklyn, NY"
 }, {
   "first_name": "Oblina",
   "last_name": "",
-  "image": "oblina.png",
+  "image": "oblina.jpg",
   "location": "City Dump, NY"
 }, {
   "first_name": "Patty",
   "last_name": "Mayonnaise",
-  "image": "patty-mayonnaise.png",
+  "image": "patty-mayonnaise.jpg",
   "location": "Bluffington, VA"
 }, {
   "first_name": "Powdered",
   "last_name": "Toast Man",
-  "image": "powdered-toast-man.png",
+  "image": "powdered-toast-man.jpg",
   "location": "City Hicks, TN"
 }, {
   "first_name": "Quinn",
   "last_name": "Morgendorffer",
-  "image": "quinn-morgendorffer.png",
+  "image": "quinn-morgendorffer.jpg",
   "location": "Lawndale, MTV"
 }, {
   "first_name": "Reno",
   "last_name": "Reyes, Jr.",
-  "image": "reno-reyes-jr.png",
+  "image": "reno-reyes-jr.jpg",
   "location": "Brooklyn, NY"
 }, {
   "first_name": "Richard",
   "last_name": "Wang",
-  "image": "richard-wang.png",
+  "image": "richard-wang.jpg",
   "location": "Astoria, OR"
 }, {
   "first_name": "Robbie",
   "last_name": "Sinclair",
-  "image": "robbie-sinclair.png",
+  "image": "robbie-sinclair.jpg",
   "location": "Pangaea"
 }, {
   "first_name": "Roger",
   "last_name": "Klotz",
-  "image": "roger-klotz.png",
+  "image": "roger-klotz.jpg",
   "location": "Bluffington, VA"
 }, {
   "first_name": "Sam",
   "last_name": "Emerson",
-  "image": "sam-emerson.png",
+  "image": "sam-emerson.jpg",
   "location": "Santa Clara, CA"
 }, {
   "first_name": "Samuel",
   "last_name": "Douglas",
-  "image": "samuel-douglas.png",
+  "image": "samuel-douglas.jpg",
   "location": "Pasadena, CA"
 }, {
   "first_name": "Simon",
   "last_name": "Holmes",
-  "image": "simon-holmes.png",
+  "image": "simon-holmes.jpg",
   "location": "Eerie, IN"
 }, {
   "first_name": "Skeeter",
   "last_name": "Valentine",
-  "image": "skeeter-valentine.png",
+  "image": "skeeter-valentine.jpg",
   "location": "Bluffington, VA"
 }, {
   "first_name": "Star",
   "last_name": "Emerson",
-  "image": "star-emerson.png",
+  "image": "star-emerson.jpg",
   "location": "Santa Clara, CA"
 }, {
   "first_name": "Teddy",
   "last_name": "Duchamp",
-  "image": "teddy-duchamp.png",
+  "image": "teddy-duchamp.jpg",
   "location": "Castlerock, OR"
 }, {
   "first_name": "Telly",
   "last_name": "Radford",
-  "image": "telly-radford.png",
+  "image": "telly-radford.jpg",
   "location": "Camp Anawanna, VA"
 }, {
   "first_name": "Trent",
   "last_name": "Lane",
-  "image": "trent-lane.png",
+  "image": "trent-lane.jpg",
   "location": "Lawndale, MTV"
 }, {
   "first_name": "Vern",
   "last_name": "Tessio",
-  "image": "vern-tessio.png",
+  "image": "vern-tessio.jpg",
   "location": "Castlerock, OR"
 }, {
   "first_name": "Alex",
   "last_name": "Murphy",
-  "image": "alex-murphy.png",
+  "image": "alex-murphy.jpg",
   "location": "Detroit, MI"
 }, {
   "first_name": "Atreyu",
   "last_name": "",
-  "image": "atreyu.png",
+  "image": "atreyu.jpg",
   "location": "Fantastica"
 }, {
   "first_name": "Bill",
   "last_name": "Esquire",
-  "image": "bill-esquire.png",
+  "image": "bill-esquire.jpg",
   "location": "San Dimas, CA"
 }, {
   "first_name": "Bishop",
   "last_name": "",
-  "image": "bishop.png",
+  "image": "bishop.jpg",
   "location": "Queens, NY"
 }, {
   "first_name": "David",
   "last_name": "Bowie",
-  "image": "david-bowie.png",
+  "image": "david-bowie.jpg",
   "location": "The Labyrinth"
 }, {
   "first_name": "Empress",
   "last_name": "Tami",
-  "image": "empress-tami.png",
+  "image": "empress-tami.jpg",
   "location": "Fantastica"
 }, {
   "first_name": "Iggy",
   "last_name": "",
-  "image": "iggy.png",
+  "image": "iggy.jpg",
   "location": "Surf City, CA"
 }, {
   "first_name": "Kennedy",
   "last_name": "Montgomery",
-  "image": "kennedy-montgomery.png",
+  "image": "kennedy-montgomery.jpg",
   "location": "MTV News, MTV"
 }, {
   "first_name": "Link",
   "last_name": "",
-  "image": "link.png",
+  "image": "link.jpg",
   "location": "Encino, CA"
 }, {
   "first_name": "Pat",
   "last_name": "Benetar",
-  "image": "pat-benatar.png",
+  "image": "pat-benatar.jpg",
   "location": "Brooklyn, NY"
 }, {
   "first_name": "Sarah",
   "last_name": "Williams",
-  "image": "sarah-williams.png",
+  "image": "sarah-williams.jpg",
   "location": "The Labyrinth"
 }, {
   "first_name": "Stoney",
   "last_name": "Brown",
-  "image": "stoney-brown.png",
+  "image": "stoney-brown.jpg",
   "location": "Encino, CA"
 }, {
   "first_name": "Ted",
   "last_name": "Logan",
-  "image": "ted-logan.png",
+  "image": "ted-logan.jpg",
   "location": "San Dimas, CA"
 }, {
   "first_name": "Vera",
   "last_name": "De Milo",
-  "image": "vera-de-milo.png",
+  "image": "vera-de-milo.jpg",
   "location": "In Living Color, TV"
 }, {
   "first_name": "Yellow",
   "last_name": "Frog",
-  "image": "yellow-frog.png",
+  "image": "yellow-frog.jpg",
   "location": "Hidden Temple"
 }, {
   "first_name": "Asha",
   "last_name": "Kuerten",
-  "image": "asha-kuerten.png",
+  "image": "asha-kuerten.jpg",
   "location": "Guts, Australia"
 }, {
   "first_name": "Elvira",
   "last_name": "Hancock",
-  "image": "elvira-hancock.png",
+  "image": "elvira-hancock.jpg",
   "location": "Miami, FL"
 }, {
   "first_name": "June",
   "last_name": "",
-  "image": "june.png",
+  "image": "june.jpg",
   "location": "KaBlam, Nick"
 }, {
   "first_name": "Alexandra",
   "last_name": "Mack",
-  "image": "alex-mack.png",
+  "image": "alex-mack.jpg",
   "location": "Paradise Valley, CA"
 }, {
   "first_name": "Clarissa",
   "last_name": "Darling",
-  "image": "clarissa-marie-darling.png",
+  "image": "clarissa-marie-darling.jpg",
   "location": "Smalltown, OH"
 }, {
   "first_name": "Dylan",
   "last_name": "McKay",
-  "image": "dylan-mckay.png",
+  "image": "dylan-mckay.jpg",
   "location": "Beverly Hills, CA 90210"
 }, {
   "first_name": "Kelly",
   "last_name": "Kapowski",
-  "image": "kelly-kapowski.png",
+  "image": "kelly-kapowski.jpg",
   "location": "Bayside High"
 }, {
   "first_name": "Kimmy",
   "last_name": "Gibbler",
-  "image": "kimmy-gibbler.png",
+  "image": "kimmy-gibbler.jpg",
   "location": "San Francisco, CA"
 }, {
   "first_name": "Scrappy-Doo",
   "last_name": "",
-  "image": "scrappy-doo.png",
+  "image": "scrappy-doo.jpg",
   "location": "Crystal Cove"
 }, {
   "first_name": "Tina",
   "last_name": "Carlyle",
-  "image": "tina-carlyle.png",
+  "image": "tina-carlyle.jpg",
   "location": "Edge City"
 }, {
   "first_name": "Zack",
   "last_name": "Taylor",
-  "image": "zack-taylor.png",
+  "image": "zack-taylor.jpg",
   "location": "Angel Grove"
 }, {
   "first_name": "Will",
   "last_name": "Smith",
-  "image": "will-smith.png",
+  "image": "will-smith.jpg",
   "location": "Bel Air, Ca"
 }, {
   "first_name": "Rufio",
   "last_name": "",
-  "image": "rufio.png",
+  "image": "rufio.jpg",
   "location": "Neverland"
 }, {
   "first_name": "Chucky",
   "last_name": "",
-  "image": "chucky.png",
+  "image": "chucky.jpg",
   "location": "Yucaipa, CA"
 }, {
   "first_name": "Allison",
   "last_name": "Reynolds",
-  "image": "allison-reynolds.png",
+  "image": "allison-reynolds.jpg",
   "location": "Shermer, IL"
 }, {
   "first_name": "Cameron",
   "last_name": "Frye",
-  "image": "cameron-frye.png",
+  "image": "cameron-frye.jpg",
   "location": "Chicago, IL"
 }, {
   "first_name": "Claire",
   "last_name": "Standish",
-  "image": "claire-standish.png",
+  "image": "claire-standish.jpg",
   "location": "Shermer, IL"
 }, {
   "first_name": "Gary",
   "last_name": "Wallace",
-  "image": "gary-wallace.png",
+  "image": "gary-wallace.jpg",
   "location": "Shermer, IL"
 }, {
   "first_name": "Lisa",
   "last_name": "",
-  "image": "lisa.png",
+  "image": "lisa.jpg",
   "location": "Shermer, IL"
 }, {
   "first_name": "Bruce",
   "last_name": "Lee",
-  "image": "bruce-lee.png",
+  "image": "bruce-lee.jpg",
   "location": "China Town, San Francisco"
 }, {
   "first_name": "Helga",
   "last_name": "Pataki",
-  "image": "helga-pataki.png",
+  "image": "helga-pataki.jpg",
   "location": "Hillwood, WA"
 }, {
   "first_name": "Laura",
   "last_name": "Powers",
-  "image": "laura-powers.png",
+  "image": "laura-powers.jpg",
   "location": "Springfield, IL"
 }, {
   "first_name": "Lydia",
   "last_name": "Deetz",
-  "image": "lydia-deetz.png",
+  "image": "lydia-deetz.jpg",
   "location": "Winter River, CT"
 }, {
   "first_name": "Ultimate",
   "last_name": "Warrior",
-  "image": "ultimate-warrior.png",
+  "image": "ultimate-warrior.jpg",
   "location": "Crawfordsville, IN"
 }, {
   "first_name": "Boba",
   "last_name": "Fett",
-  "image": "boba-fett.png",
+  "image": "boba-fett.jpg",
   "location": "Kamino"
 }, {
   "first_name": "Garth",
   "last_name": "Algar",
-  "image": "garth-algar.png",
+  "image": "garth-algar.jpg",
   "location": "Aurora, IL"
 }, {
   "first_name": "Jen",
   "last_name": "",
-  "image": "jen.png",
+  "image": "jen.jpg",
   "location": "Thra"
 }, {
   "first_name": "Linda",
   "last_name": "Barret",
-  "image": "linda-barret.png",
+  "image": "linda-barret.jpg",
   "location": "San Diego, CA"
 }, {
   "first_name": "Scott",
   "last_name": "Howard",
-  "image": "scott-howard.png",
+  "image": "scott-howard.jpg",
   "location": "Beacontown"
 }, {
   "first_name": "Shōtarō",
   "last_name": "Kaneda",
-  "image": "akira.png",
+  "image": "akira.jpg",
   "location": "Neo-Tokyo, Japan"
 }, {
   "first_name": "Dionne",
   "last_name": "Davenport",
-  "image": "dionne.png",
+  "image": "dionne.jpg",
   "location": "Beverly Hills, CA"
 }, {
   "first_name": "Johnny",
   "last_name": "Lawrence",
-  "image": "johnny-lawrence.png",
+  "image": "johnny-lawrence.jpg",
   "location": "Reseda, CA"
 }, {
   "first_name": "Lucas",
   "last_name": "",
-  "image": "lucas.png",
+  "image": "lucas.jpg",
   "location": "Empire, DE"
 }, {
   "first_name": "Winnie",
   "last_name": "Cooper",
-  "image": "winnie-cooper.png",
+  "image": "winnie-cooper.jpg",
   "location": "Harper Woods"
 }]
