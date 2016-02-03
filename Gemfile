@@ -10,6 +10,7 @@ gem 'neat'
 
 # deployment
 gem 'rack-contrib'
+gem 'puma'
 
 # Live-reloading plugin
 gem 'middleman-livereload', '~> 3.1.0'
