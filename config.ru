@@ -1,10 +1,8 @@
 require 'rack/contrib/try_static'
-require 'rack/contrib/static_cache'
 
 use Rack::Deflater
-use Rack::StaticCache, :urls => ['/images', '/stylesheets', '/javascripts', '/fonts']
 use Rack::TryStatic,
-  root: 'build',
+  root: 'tmp',
   urls: %w[/],
   try: %w[.html index.html /index.html]
 
