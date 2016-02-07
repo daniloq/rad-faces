@@ -498,4 +498,29 @@
   "last_name": "Cooper",
   "image": "winnie-cooper.jpg",
   "location": "Harper Woods"
+}, {
+  "first_name": "Marian",
+  "last_name": "Delario",
+  "image": "marian-delario.jpg",
+  "location": "Black Warriors, Turf"
+}, {
+  "first_name": "Ororo",
+  "last_name": "Munroe",
+  "image": "ororo-munroe.jpg",
+  "location": "Harlem, NY"
+}, {
+  "first_name": "Pee-wee",
+  "last_name": "Herman",
+  "image": "pee-wee-herman.jpg",
+  "location": "Pee-wee's Playhouse"
+}, {
+  "first_name": "Wanda",
+  "last_name": "Woodward",
+  "image": "wanda-woodward.jpg",
+  "location": "Baltimore, MD"
+}, {
+  "first_name": "Willow",
+  "last_name": "Ufgood",
+  "image": "willow-ufgood.jpg",
+  "location": "Tir Asleen"
 }]
