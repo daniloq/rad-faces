@@ -523,4 +523,29 @@
   "last_name": "Ufgood",
   "image": "http://www.radfaces.com/images/avatars/willow-ufgood.jpg",
   "location": "Tir Asleen"
+}, {
+  "first_name": "Angela",
+  "last_name": "Chase",
+  "image": "http://www.radfaces.com/images/avatars/angela-chase.jpg",
+  "location": "Three Rivers, PA"
+}, {
+  "first_name": "Gordie",
+  "last_name": "Lachance",
+  "image": "http://www.radfaces.com/images/avatars/gordie-lachance.jpg",
+  "location": "Castlerock, OR"
+}, {
+  "first_name": "Topanga",
+  "last_name": "Lawrence",
+  "image": "http://www.radfaces.com/images/avatars/topanga-lawrence.jpg",
+  "location": "John Adams High"
+}, {
+  "first_name": "Tre",
+  "last_name": "Styles",
+  "image": "http://www.radfaces.com/images/avatars/tre-styles.jpg",
+  "location": "Crenshaw"
+}, {
+  "first_name": "Wednesday",
+  "last_name": "Addams",
+  "image": "http://www.radfaces.com/images/avatars/wednesday-addams.jpg",
+  "location": "0001 Cemetery Lane"
 }]
