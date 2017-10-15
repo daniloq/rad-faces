@@ -548,4 +548,29 @@
   "last_name": "Addams",
   "image": "wednesday-addams.jpg",
   "location": "0001 Cemetery Lane"
+}, {
+  "first_name": "Edward",
+  "last_name": "Scissorhands",
+  "image": "edward-scissorhands.jpg",
+  "location": "Tampa, FL"
+}, {
+  "first_name": "Maurice",
+  "last_name": "",
+  "image": "maurice.jpg",
+  "location": "Burbank, CA"
+}, {
+  "first_name": "Melivn",
+  "last_name": "Ferd",
+  "image": "melvin-ferd.jpg",
+  "location": "Tromaville, NJ"
+}, {
+  "first_name": "Purple",
+  "last_name": "People-Eater",
+  "image": "purple-people-eater.jpg",
+  "location": "Fullerton, CA"
+}, {
+  "first_name": "Squints",
+  "last_name": "Palledorous",
+  "image": "squints-palledor  ous.jpg",
+  "location": " San Fernando Valley, CA"
 }]

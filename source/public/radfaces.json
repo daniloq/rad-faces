@@ -548,4 +548,29 @@
   "last_name": "Addams",
   "image": "http://www.radfaces.com/images/avatars/wednesday-addams.jpg",
   "location": "0001 Cemetery Lane"
+}, {
+  "first_name": "Edward",
+  "last_name": "Scissorhands",
+  "image": "http://www.radfaces.com/images/avatars/edward-scissorhands.jpg",
+  "location": "Tampa, FL"
+}, {
+  "first_name": "Maurice",
+  "last_name": "",
+  "image": "http://www.radfaces.com/images/avatars/maurice.jpg",
+  "location": "Burbank, CA"
+}, {
+  "first_name": "Melivn",
+  "last_name": "Ferd",
+  "image": "http://www.radfaces.com/images/avatars/melvin-ferd.jpg",
+  "location": "Tromaville, NJ"
+}, {
+  "first_name": "Purple",
+  "last_name": "People-Eater",
+  "image": "http://www.radfaces.com/images/avatars/purple-people-eater.jpg",
+  "location": "Fullerton, CA"
+}, {
+  "first_name": "Squints",
+  "last_name": "Palledorous",
+  "image": "http://www.radfaces.com/images/avatars/squints-palledor  ous.jpg",
+  "location": " San Fernando Valley, CA"
 }]
